@@ -1,0 +1,16 @@
+html intro:
+
+ project folder
+ file folder
+ text editor
+ html template
+ html
+ run html
+ version control
+ revise: bug fix, delete, add, modify
+content
+ element [has start and end],tag[has no end],attribute[additional data]
+
+ heading h1-h6 ,p,a =internal, external
+
+ file formation
