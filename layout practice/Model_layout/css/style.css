@@ -1,0 +1,17 @@
+.header{
+
+	min-height: 100px;
+	background-color: black;
+}
+.wrapper_row1{
+	border: 2px solid grey;
+}
+.search{
+
+	min-height: 150px;
+    background-color: white;
+}
+.slider{
+	min-height: 300px;
+	background-color: black;
+}

@@ -1,0 +1,2 @@
+first workwith width height font
+then margin padding

@@ -1,0 +1,22 @@
+semantic : <article> <header> <footer> <nav> <section> <aside>  <main>
+
+non semantic : <div> <span>
+
+block lvl element:takes new line and captures full width as an element 
+          <div>  <h1-h6>  <nav> <footer> <ul> <li> video <main> <section> <table> <canvas> <header>
+
+inline element : not block lvl
+      <span> <br> <button> <img> <script> <input> <var>
+
+
+display: css displays element type rendering box (specifies display behaviour)
+
+
+p.ex1{
+display:inline;
+display:block;
+display: inline-block
+
+}
+
+box model concept:  element->padding(clears area (transparent))->border->margin(clears area(transparent))

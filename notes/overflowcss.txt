@@ -1,0 +1,5 @@
+has specified height
+overflow:visible  (not clipped)
+overflow:hidden (clipped extra content)
+overflow:scroll  (not clipped has scrollbar)
+ovewrflow:auto  (has scrollbar)

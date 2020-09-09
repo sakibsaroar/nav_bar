@@ -1,0 +1,44 @@
+-banner-
+
+extract text- online image to text converter-provide text in doc
+
+same class repeat- garbage code
+
+call to action- business grow-notary a document now
+dummy image,dummy content
+section- semantic markup for banner- class banner-same container as header
+
+relevant wrapper name
+
+seo-
+image optimize
+h1-h6
+img alt
+
+rules - one h1 in one section
+
+
+banner content {image}
+
+filepath-css image
+url(../images/business.jpg) [../ root directory]
+stop background image repeat 
+background-repeat:no repeat
+background-size:cover
+image-position:center(top bottom) center(left right)
+
+browser support css
+-webkit -
+-mozilla-
+
+
+
+
+word spacing
+line height 
+letter spacing
+text-transform
+
+
+
+cursor
