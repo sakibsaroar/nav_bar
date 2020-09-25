@@ -1,0 +1,123 @@
+row(highest 12 divisions/12column=(8.33%x12)100%) -grid-flex
+
+sm-576
+container-sm->extra large , free space (not in extra large)
+
+if col-md fails use flex and grid
+
+col-md-1
+col-md-2
+col-md-3
+col-md-4
+col-md-6
+col-md-12
+
+only =col-md x 5times
+paddding =15 px left right
+
+md-3 md-6 md-3 =12
+
+Grid+flex usage:
+md-5 + md md =5 + 7
+
+offset-md-(gapcolumn) 
+
+
+
+bootstrap reeboot-typography
+img-width
+rounded-float
+premium-template
+table table-dark class
+
+flex- float -shadow -display important
+class="border"
+utilities
+display flex
+d-flex
+flex-row-reverse
+flex-column
+justify-conent-center
+
+
+bootstrap-grid+flex enough;
+grid col enough for every screen
+#col-md col-xl col-md (mixed sized)
+
+
+HW:grid+flex content
+
+
+
+18/9/20
+
+
+nested column /nested griding system
+
+d-block =show /display
+d-none =display none
+d-md-block =show in md
+d-md-none =hide in md
+same content in two section for responsiveness
+
+usage of bootstrap grid in different screen:
+image-text-text-image-image-text
+solution: image-text-text(hide)-image-recreate text-image-text
+
+w3school nu html checker
+
+19/9/2020
+bootstrap components:
+class 'alert'-alert
+warning alert with x button
+custom class for alert: add new class but do not erase bootstrap classes
+
+labelling components:
+
+in E-commerce website:
+badge , badge pill
+
+breadcrumb->navigational hierarchy
+<ol>
+<li>
+ 
+button- submit class=btn
+blocck lvl button
+class="card" ->like wrapper
+<div class=card>
+  class=card-header
+  class=card-body
+  class=card-footer	
+
+
+carousel-->slider
+class"carousel slide"	
+<div class="carouse-item">x times needed
+displays any type of content(not only img)
+full width= d-block w-100 HAS IMAGE HEIGHT
+carousel id in contrl href for control
+class="active" -->show first
+control transition ---> data intervel=miliseconds
+
+
+Form control
+for style
+font validation
+
+modal-popup
+
+
+
+9/25/20
+popover with popper.js
+activation code -activating jquery
+
+activation template:
+<script>
+function():
+selector function();
+</script>
+
+tooltip:shows hoveredd
+
+bootstrap scrollspy on landing page: auto land on page section
